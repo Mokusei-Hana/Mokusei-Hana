@@ -1,8 +1,9 @@
 ## Hi there 👋
-I'm Mokusei-Hana
+# This is Mokusei-Hana
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mokusei-Hana&data=followers,repositories,stars,commits&theme=magic_girl)](https://github.com/Jurredr/github-widgetbox)
 ## Skill
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=php,python,html5,mysql,markdown,linux,Javascript,C)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=php,python,html5,mysql,markdown,linux,Javascript)](https://github.com/Jurredr/github-widgetbox)
 ## Credit
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Mokusei-Hana)](https://github.com/LordDashMe/github-contribution-stats/)
 
