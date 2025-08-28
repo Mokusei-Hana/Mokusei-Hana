@@ -8,3 +8,9 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Mokusei-Hana)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ![](https://komarev.com/ghpvc/?username=Mokusei-Hana&color=FFC0CB)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
